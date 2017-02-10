@@ -1,1 +1,6 @@
-1111111
+http://jingyan.baidu.com/article/a65957f4e91ccf24e77f9b11.html 教学
+
+
+新仓库
+$ git remote add origin ‘粘贴复制test ssh key的ssh路径’  #
+$ git push -u origin master
